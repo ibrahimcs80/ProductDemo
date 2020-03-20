@@ -5,7 +5,8 @@ This is CRUD Demo for Product task
 to run the application 
 - git clone https://github.com/ibrahimcs80/ProductDemo.git
 - mvn clean install
-below links you can access database and swagger
+
+- Below links you can access database and swagger
 1- data base url : http://localhost:8080/h2/
 2- Swagger url : http://localhost:8080/swagger-ui.html#
 
